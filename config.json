@@ -1,0 +1,14 @@
+
+{
+    "TOKEN": "",
+    "NUKES": {
+
+    
+        "GARBAGE":   " the sb is stupid with webhooks and channel names, it will spam the same channel name the entire nuke and it will only start sending webhooks after all the channels are created, easy fix is to spam 20 channels at a time or so",
+        "CHANNEL NAMES": [""],
+        "ROLE NAMES": [""],
+        "WEBHOOK NAMES": [""],
+        "WEBHOOK MSGS": [""],
+        "EMOJI NAMES": [""]
+    }
+}
